@@ -29,7 +29,15 @@ Simple HTTP analyzation written from pure golang, wanted to grab simple info fro
 ```
 go run main.go -h or -t <url>
 NOTE: MAKE SURE YOU HAVE TOR INSTALLED AND CONFIGURED
+
+INSTALLS
+
+|-> git clone https://github.com/ArkAngeL43/Tor-Magic.git ; go get github.com/PuerkitoBio/goquery ; go get golang.org/x/net/proxy
+
+
 ```
+
+ 
 
 # what wil it get 
 
